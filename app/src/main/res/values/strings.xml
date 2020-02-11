@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookTraveral</string>
+
+    <string name="username_zh">使用者帳號</string>
+    <string name="hint_username_zh">請輸入帳號</string>
+
+    <string name="password_zh">使用者密碼</string>
+    <string name="hint_password_zh">請輸入密碼</string>
+
+</resources>
